@@ -1,2 +1,2 @@
 # rmk_docs
-RMK Docs - Rust keyboard firmware documentation
+[RMK](https://github.com/ObsiLab/rmk_firmware) Docs - Rust keyboard firmware documentation
